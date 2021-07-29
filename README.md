@@ -10,5 +10,4 @@
 
 ###  3 - Excluir Contatos
 
-
-![](certificado.jpg)
+[](images/certificado.jpg)
