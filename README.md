@@ -1,5 +1,7 @@
 # Lista de Contatos utilizando SQLITE
 
+![](images/app.jpg)
+
 ## Principais funções
 
 ### 1 - Criar Contatos
@@ -8,4 +10,5 @@
 
 ###  3 - Excluir Contatos
 
-![](images/app.jpg)
+
+![](certificado.jpg)
