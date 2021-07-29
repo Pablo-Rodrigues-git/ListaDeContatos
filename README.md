@@ -8,5 +8,5 @@
 
 ###  3 - Excluir Contatos
 
-![Lista de contatos](C:\Users\Mitico\Desktop\Mobiledev\Certificados\Lista de contatos.jpg)
+
 
