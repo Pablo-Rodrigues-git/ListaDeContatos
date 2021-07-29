@@ -1,6 +1,6 @@
 # Lista de Contatos utilizando SQLITE
 
-![](images/app.jpg)
+<img src="images/certificado.JPG" width="500">
 
 ## Principais funções
 
@@ -10,4 +10,7 @@
 
 ###  3 - Excluir Contatos
 
-[](images/certificado.JPG)
+<img src="images/app.jpg" width="500">
+
+
+
