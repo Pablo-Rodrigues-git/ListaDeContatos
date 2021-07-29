@@ -8,6 +8,4 @@
 
 ###  3 - Excluir Contatos
 
-
-
-![] (images/Lista%20de%20contatos.jpg)
+![](images/Lista%20de%20contatos.jpg)
