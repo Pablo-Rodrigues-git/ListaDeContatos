@@ -10,7 +10,7 @@
 
 ###  3 - Excluir Contatos
 
-<img src="images/app.jpg" width="500">
+<img src="images/ContactList.gif" width="400">
 
 
 
